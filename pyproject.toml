@@ -3,8 +3,8 @@ requires = ["setuptools>=69.1.1", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "TextMetrics"
-version = "0.0.1"
+name = "BasicTextMetrics"
+version = "0.2.0"
 description = "Analyze textual data and extract useful metrics such as word count, character count, average word length, and most common words"
 readme = "README.md"
 authors = [{ name = "Famosa Muyiwa", email = "nenling19@gmail.com" }]

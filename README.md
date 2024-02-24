@@ -10,17 +10,17 @@ Average Word Length: Calculate the average length of words in a text.
 Most Common Words: Find the most common words in a text.
 
 Installation
-You can install TextMetrics using pip:
-pip install textmetrics
+You can install Basictextmetrics using pip:
+pip install BasicTextMetrics
 
 Usage
-Here's a quick example demonstrating the usage of TextMetrics:
+Here's a quick example demonstrating the usage of BasicTextMetrics:
 
 python
 Copy code
-from textmetrics import core
+from basictextmetrics import core
 
-text = "This is a sample text for demonstrating the textmetrics package."
+text = "This is a sample text for demonstrating the BasicTextMetrics package."
 print("Word count:", core.word_count(text))
 print("Character count:", core.char_count(text))
 print("Average word length:", core.avg_word_length(text))
@@ -32,4 +32,4 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-This README provides a brief overview of the TextMetrics package, its features, installation instructions, usage examples, guidelines for contributing, and information about the license. Feel free to customize it further based on your preferences and specific details of the package.
+This README provides a brief overview of the BasicTextMetrics package, its features, installation instructions, usage examples, guidelines for contributing, and information about the license. Feel free to customize it further based on your preferences and specific details of the package.
