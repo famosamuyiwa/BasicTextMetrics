@@ -38,6 +38,3 @@ def most_common_words(text, n=5):
     filtered_words = [word.lower() for word in words if word.lower() not in stop_words and re.match(r'^\w+$', word)]
     word_freq = Counter(filtered_words)
     return word_freq.most_common(n)
-
-if __name__ == '__main__':
-    main()

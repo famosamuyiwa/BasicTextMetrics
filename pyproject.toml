@@ -44,5 +44,5 @@ dependencies = [
 requires-python = ">=3.6"
 
 [project.urls]
-Homepage = "https://github.com/bigvisionai/pyOpenAnnotate"
+Homepage = "https://github.com/famosamuyiwa/TextMetrics.git"
 
