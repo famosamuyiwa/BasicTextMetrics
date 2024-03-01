@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "BasicTextMetrics"
-version = "0.2.0"
+version = "0.2.1"
 description = "Analyze textual data and extract useful metrics such as word count, character count, average word length, and most common words"
 readme = "README.md"
 authors = [{ name = "Famosa Muyiwa", email = "nenling19@gmail.com" }]
@@ -44,5 +44,5 @@ dependencies = [
 requires-python = ">=3.6"
 
 [project.urls]
-Github = "https://github.com/famosamuyiwa/TextMetrics.git"
+Source = "https://github.com/famosamuyiwa/TextMetrics.git"
 
